@@ -6,7 +6,8 @@
     code .
 ```
 
-Install VScode docker extension, and open run from docker, Now follow steps below
+Install VScode docker extension, and ```run from docker```, 
+The docker container builds and runs. Now follow steps below
 
 
 1. **Build ROS Workspace:**
